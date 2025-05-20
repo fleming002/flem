@@ -1,5 +1,5 @@
 # flem
-Hello world, this is my profile
+🚀 Hello and welcome! I'm Fleming Jose — a Computer Science graduate passionate about intelligent automation, data-driven systems, and real-world problem solving through AI and software engineering.
 # 💻 Hi, I'm Fleming Jose  
 ### 🎓 Computer Science Graduate | Data Systems & AI Enthusiast  
 
